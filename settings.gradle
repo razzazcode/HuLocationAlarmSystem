@@ -1,0 +1,2 @@
+rootProject.name='Hu Location Alarm System'
+include ':app'
